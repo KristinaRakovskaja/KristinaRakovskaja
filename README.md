@@ -8,8 +8,9 @@ I'm a **career switcher from Nutrition & Health to Data Analytics**, based in **
 🐶 Dog lover.
 
 ## 💻 What I'm working on:
-- Gaining more confidence with **large datasets**
+- **Learning Python** to further enhance my data analysis abilities
 - Building projects in **Power BI, SQL, and Python**
+- Exploring real-world datasets and trying to answer **“so what?”** with every project
 
 ## 🔧 Languages and Tools:
 - **SQL (BigQuery)**  
