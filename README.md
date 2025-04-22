@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hey there, I'm Kristina!
 
-<!--
-**KristinaRakovskaja/KristinaRakovskaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **career switcher from Nutrition & Health to Data Analytics**, based in **Klaipėda, Lithuania** 🌊.  
 
-Here are some ideas to get you started:
+🧠 Curious by nature.  
+🏋🏼‍♀️ CrossFit athlete.  
+📚 Lifelong learner.  
+🐶 Dog lover.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I'm working on:
+- Gaining more confidence with **large datasets**
+- Building projects in **Power BI, SQL, and Python**
+
+## 🔧 Languages and Tools:
+- **SQL (BigQuery)**  
+- **Power BI**  
+- **Excel / Google Sheets**  
+- **Python Fundamentals**
+
+## 🎯 Goals:
+- Land my first data analyst role 
+- Work with a supportive, kind team on impactful projects  
+- Keep learning, growing, and making a difference
+
+## 📫 Let's connect!
+I'm always open to connecting with fellow learners, analysts, or mentors.  
+Feel free to [connect with me on LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kristinarakovskaja/)) 🤝
+
+---
+✨ “I don't just analyze data — I look for meaning.”  
