@@ -24,7 +24,4 @@ I'm a **career switcher from Nutrition & Health to Data Analytics**, based in **
 
 ## 📫 Let's connect!
 I'm always open to connecting with fellow learners, analysts, or mentors.  
-Feel free to [connect with me on LinkedIn][https://www.linkedin.com/in/kristinarakovskaja/] 🤝
-
----
-✨ “I don't just analyze data — I look for meaning.”  
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/kristinarakovskaja/) 🤝 
